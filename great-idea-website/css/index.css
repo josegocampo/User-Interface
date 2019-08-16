@@ -64,3 +64,113 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+	width: 975px;
+	margin: auto;
+}
+
+header {
+	display: inline-block;
+	
+}
+
+header nav a {
+	margin: 0px 13px;
+	color: rgba(78, 78, 78, 0.39);
+	text-decoration: none;
+	margin-left: 50px;
+}
+
+header img.logo {
+	margin-left: 70px; 
+	margin-top: 30px;
+}
+
+.innovation {
+	display: inline-block;
+	margin-top: 50px;
+	margin-bottom: 70px;
+	
+}
+
+.innoandbutton {
+	margin-left: 100px;
+	margin-top: 100px;
+	float: left; 
+	margin-right:100px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 80px;
+}
+
+.snipet {
+	float: right;
+}
+
+button {
+	background-color:white;
+	border: 1px solid black;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	width: 170px;
+	height: 35px;
+	line-height: 3px;
+  }
+
+
+h2 {
+	font-size:18px;
+}
+
+ .content {
+	display: inline-block;
+	text-align: left;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	padding: 20px;
+ }
+
+.content-first-left {
+	width: 440px;
+	height: 100px;
+	margin-left: 20px;
+	display: inline-block;	
+}
+
+.content-first-right {
+	width: 440px;
+	height: 100px;
+	margin-left: 30px;
+	display: inline-block;
+	
+}
+
+.content-second{
+	width: 283px;
+	height: 140px;
+	margin-left: 20px;
+	display: inline-block;	
+}
+
+
+
+.middle-img{
+	margin-left: 30px;
+	margin-bottom: 30px;
+	margin-top: 20px;
+}
+
+ footer {
+	margin-top: 60px;
+}
+
+.copyright {
+	text-align: center;
+	margin-top:35px;
+	margin-bottom: 35px;
+}
